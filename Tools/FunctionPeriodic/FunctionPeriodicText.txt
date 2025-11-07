@@ -1,0 +1,9 @@
+Purpose:
+Runs a function repeatedly at a fixed interval of time — without using Coroutines or Update().
+
+
+Common uses:
+Spawning enemies or objects every few seconds
+Checking conditions periodically
+Auto-saving data
+Updating score or timers

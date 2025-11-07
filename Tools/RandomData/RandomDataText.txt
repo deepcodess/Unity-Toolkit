@@ -1,0 +1,10 @@
+Purpose:
+Provides helper functions to generate random values, positions, colors, or elements — all in a clean and reusable way.
+Instead of writing Random.Range() or shuffling logic every time, you just use RandomData methods.
+
+
+Common uses:
+Random enemy spawns
+Random loot drops
+Randomized effects (like random color, size, or movement)
+Procedural generation

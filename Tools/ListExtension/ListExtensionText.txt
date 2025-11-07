@@ -1,0 +1,9 @@
+Purpose:
+Adds extra functions to the standard C# List<T> type — to make working with lists easier and faster.
+
+
+Common uses:
+Randomly choosing an enemy type from a list.
+Shuffling spawn points or items.
+Removing or finding specific elements quickly.
+Keeping lists clean (no duplicates).
