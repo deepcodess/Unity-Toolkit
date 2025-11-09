@@ -1,10 +1,10 @@
-
+## UNITY TOOLKIT
 - All **C# scripts** are located in the `Tools` folder.
 - Each script has a corresponding `.txt` file in the same folder describing:
   - Purpose
   - Common Uses
 
----
+
 
 ## 🎯 Purpose of This Toolkit
 
@@ -14,7 +14,7 @@ The goal of this toolkit is to:
 - Standardize utility patterns across projects
 - Reduce repeated implementation of commonly used behavior
 
----
+
 
 ## ✅ Features
 
@@ -23,7 +23,7 @@ The goal of this toolkit is to:
 - Modular and reusable
 - Clean and well-commented code
 
----
+
 
 ## 🚀 How to Use
 
@@ -33,7 +33,7 @@ The goal of this toolkit is to:
 
 No additional configuration or packages are required unless specified in a script description file.
 
----
+
 
 ## 🔧 Requirements
 
@@ -45,7 +45,7 @@ No additional configuration or packages are required unless specified in a scrip
   - HDRP
   - Built-in pipeline
 
----
+
 
 ## 📜 License
 
@@ -54,7 +54,7 @@ Not meant for redistribution or commercial sale as-is.
 
 If you fork or reuse components, please provide credit where applicable.
 
----
+
 
 ## 🤝 Acknowledgement
 
