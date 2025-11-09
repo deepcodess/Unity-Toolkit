@@ -1,0 +1,4 @@
+Parallax background gives a sense of depth by making background layers move slower than the foreground.
+
+Common uses:
+Side-scrolling platformers, endless runners, 2D adventure games, and menu screens to make environments feel more dynamic and visually immersive.
