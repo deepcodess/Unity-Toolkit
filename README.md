@@ -4,7 +4,7 @@
   - Purpose
   - Common Uses
 
-
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## 🎯 Purpose of This Toolkit
 
@@ -48,11 +48,14 @@ No additional configuration or packages are required unless specified in a scrip
 
 
 ## 📜 License
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-This toolkit is intended for **personal use only**.  
-Not meant for redistribution or commercial sale as-is.
+You are free to use, modify, and share the toolkit **for personal and educational use**.  
+**Commercial use is not allowed.**
 
-If you fork or reuse components, please provide credit where applicable.
+If you reuse or fork this project, please provide credit: **© 2025 Deep Saha**
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
 
 
 
