@@ -1,0 +1,8 @@
+Purpose:
+Automatically plays a sequence of notes or GameObjects in order, using a fixed time delay between each note through a Coroutine.
+
+Common uses:
+Auto-play or demo mode in rhythm/piano games.
+Playing predefined music or note patterns.
+Tutorial or preview mode for levels.
+Timed activation of visual or sound effects.
