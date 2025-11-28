@@ -37,8 +37,7 @@ No additional configuration or packages are required unless specified in a scrip
 
 ## 🔧 Requirements
 
-- **Unity 2020+** recommended  
-  (Most scripts are compatible with older versions unless noted)
+- **Unity 2020+** recommended(Most scripts are compatible with older versions unless noted)
 
 - Works with:
   - URP
